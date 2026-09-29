@@ -25,6 +25,7 @@
 - ⚡️ Automated CI/CD & GitOps, making deployments 6x faster
 - 💸 Cut cloud costs by nearly 30% with smart architecture
 - 🤝 Fostered a DevOps culture with weekly sharing & team growth
+- 📊 Architected OLAP system with CDC pipeline, achieving 30x+ query performance improvement
 
 ---
 
